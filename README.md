@@ -13,8 +13,6 @@ Submission:
 
 •	Submission of your work must be made to your GitHub repository.
 
-•	All your code must be in a zip file with name your name and roll number as follows, “Name-Roll-No.zip”
-
 •	Submit a notepad file with the link of your repository.
 
 •	Emailed submissions will not be accepted.
@@ -23,7 +21,7 @@ Submission:
 
 
 Tasks:
-Create an HTML and a JavaScript file named as “javaScript.html” and “javaScript.js”. Write JavaScript functions to perform the following tasks given below. Write comments in your work else it will not be checked. Moreover, you are ONLY allowed to use external JavaScript file.
+Create an HTML and a JavaScript file named as “javaScript.html” and “javaScript.js”. Write JavaScript functions to perform the following tasks given below. Write comments in your work else it will not be checked. You are ONLY allowed to use external JavaScript file.
 
 1.	Write a JavaScript code that takes an array and returns the sum of the elements present in the array.
 
